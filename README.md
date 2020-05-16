@@ -1,2 +1,0 @@
-# projectdevops
-DevOps project
